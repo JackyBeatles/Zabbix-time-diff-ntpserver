@@ -1,0 +1,1 @@
+# Zabbix-time-diff-ntpserver
